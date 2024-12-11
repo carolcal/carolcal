@@ -6,10 +6,11 @@
  </div>
  <br>
  <p align="left" width="300">
-     <p>💼 I am a self taught Full Stack Developer working as so </p>
-     <p>🌱 I am currently a 42 Cadet studying to be a Software Engineer </p>
-     <p>📚 I have a Bachelors in Architecture from University of São Paulo </p>
-     <p>🌟 Main languages: JavaScript, C </p>
+     <p>💼 I am a self-taught Full Stack Developer working as such.</p>
+     <p>🌱 I am currently a 42 Cadet studying to become a Software Engineer.</p>
+     <p>📚 I have a Bachelor's degree in Architecture from the University of São Paulo.</p>
+     <p>🌟 My main languages are JavaScript and C.</p>
+     <p>🌍 I speak English, Spanish and Portuguese.</p>
  </p>
  
 ## Languages and Tools
