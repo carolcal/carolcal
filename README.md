@@ -2,7 +2,7 @@
 
 ## About Me
  <div>
-     <img align="right" width="200" height="200" src="https://avatars.githubusercontent.com/u/102368961?s=400&u=72d2108f90b94be89af0a28ef41845f4eac109cb&v=4" alt="Caroline Caleguer" />
+<!--      <img align="right" width="200" height="200" src="https://avatars.githubusercontent.com/u/102368961?s=400&u=72d2108f90b94be89af0a28ef41845f4eac109cb&v=4" alt="Caroline Caleguer" /> -->
  </div>
  <br>
  <p align="left" width="300">
