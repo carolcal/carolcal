@@ -1,10 +1,17 @@
 <h1 align="center">Hi! I am Caroline Caleguer 👋  </h1>
 
-## About Me
-<p>💼 I am a self taught Full Stack Developer working as so </p>
-<p>🌱 I am currently a 42 Cadet studying to be a Software Engineer </p>
-<p>📚 I have a Bachelors in Architecture from University of São Paulo </p>
-<p>🌟 Main languages: JavaScript, C </p>
+ <div style="flex: 0 0 auto; margin-right: 20px;">
+    <img src="https://avatars.githubusercontent.com/u/102368961?s=400&u=72d2108f90b94be89af0a28ef41845f4eac109cb&v=4" alt="Caroline Caleguer" width="150" height="150" style="border-radius: 50%;" />
+  </div>
+
+  <!-- Sobre mim -->
+  <div style="flex: 1;">
+    ## About Me
+    <p>💼 I am a self taught Full Stack Developer working as so </p>
+    <p>🌱 I am currently a 42 Cadet studying to be a Software Engineer </p>
+    <p>📚 I have a Bachelors in Architecture from University of São Paulo </p>
+    <p>🌟 Main languages: JavaScript, C </p>
+  </div>
 
 ## Contributions and Tools
 <p align="center">
