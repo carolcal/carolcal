@@ -1,10 +1,6 @@
 <h1 align="center">Hi! I am Caroline Caleguer 👋  </h1>
 
 ## About Me
- <div>
-<!--      <img align="right" width="200" height="200" src="https://avatars.githubusercontent.com/u/102368961?s=400&u=72d2108f90b94be89af0a28ef41845f4eac109cb&v=4" alt="Caroline Caleguer" /> -->
- </div>
- <br>
  <p align="left" width="300">
      <p>💼 I am a self-taught Full Stack Developer working as such.</p>
      <p>🌱 I am currently a 42 Cadet studying to become a Software Engineer.</p>
