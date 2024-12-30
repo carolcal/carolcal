@@ -6,7 +6,7 @@
      <p>🌱 I am currently a 42 Cadet studying to become a Software Engineer.</p>
      <p>📚 I have a Bachelor's degree in Architecture from the University of São Paulo.</p>
      <p>🌟 My main languages are JavaScript and C.</p>
-     <p>🌍 I speak English, Spanish and Portuguese.</p>
+     <p>🌍 "I have advanced proficiency in English and Spanish and am a native Portuguese speaker."</p>
  </p>
  
 ## Languages and Tools
