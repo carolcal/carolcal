@@ -36,9 +36,7 @@
 </p>
 
 ## My learning journey
-
 ### École 42
-
 | Milestone | Project | Result | Description |
 |:---------:|:-------:|:-----:|:-----------:|
 | M0 | [Libft](https://github.com/carolcal/42_libft) | <img src="https://github.com/user-attachments/assets/63d993d4-fbd8-4dc7-8645-767d66be3e66" width="100"/> | My own C library |
