@@ -49,17 +49,3 @@
 | M2 | [FdF](https://github.com/carolcal/42_fdf) | <img src="https://github.com/user-attachments/assets/63d993d4-fbd8-4dc7-8645-767d66be3e66" width="100"/> | My first graphic project at 42 |
 | M3 | [Philosophers](https://github.com/carolcal/42_philosophers) | <img src="https://github.com/user-attachments/assets/7c078903-56c4-4ad8-881c-eeb719aa9fe6" width="100"/> | Using threads and mutax for the first time |
 | M3 | [Minishell](https://github.com/carolcal/42-minishell) | <img src="https://github.com/user-attachments/assets/63d993d4-fbd8-4dc7-8645-767d66be3e66" width="100"/> | My own beautiful little shell |
-
-
-<br/>
-
-
-
-
-
-
-
-
-
-
-
