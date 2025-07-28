@@ -39,14 +39,14 @@
 ### École 42
 | Milestone | Project | Result | Description |
 |:---------:|:-------:|:-----:|:-----------:|
-| M0 | [Libft](https://github.com/carolcal/42_libft) | ✅ 125/100 | My own C library |
-| M1 | [get_next_line](https://github.com/carolcal/42_gnl) | ✅ 125/100 | Read and return a line from a file descriptor |
-| M1 | [ft_printf](https://github.com/carolcal/42_printf) | ✅ 100/100 | A custom version of the printf function |
-| M1 | [Born2beroot](https://github.com/carolcal/42_born2beroot) | ✅ 100/100 | A virtual machine project |
-| M2 | [minitalk](https://github.com/carolcal/42_minitalk) | ✅ 125/100 | A small data exchange program |
-| M2 | [push_swap](https://github.com/carolcal/42_pushswap) | ✅ 125/100 | Sorting algorithms with two-stacks |
-| M2 | [FdF](https://github.com/carolcal/42_fdf) | ✅ 125/100 | My first graphic project at 42 |
-| M3 | [Philosophers](https://github.com/carolcal/42_philosophers) | ✅ 100/100 | Using threads and mutax for the first time |
-| M3 | [Minishell](https://github.com/carolcal/42-minishell) | ✅ 125/100 | My own beautiful little shell |
-| M4 | [Netpractice](https://github.com/carolcal/42_netpractice) | ✅ 100/100| Our first contact with network |
-| M4 | [Cub3D](https://github.com/carolcal/42_cub3D) | ✅ 125/100 | A 3D game with raycasting algorithm |
+| M0 | [Libft](https://github.com/carolcal/42_libft) |✅ **125**/<sub>100</sub> | My own C library |
+| M1 | [get_next_line](https://github.com/carolcal/42_gnl) | ✅ **125**/<sub>100</sub> | Read and return a line from a file descriptor |
+| M1 | [ft_printf](https://github.com/carolcal/42_printf) | 🐾 **100**/<sub>100</sub> | A custom version of the printf function |
+| M1 | [Born2beroot](https://github.com/carolcal/42_born2beroot) | 🍼 **100**/<sub>100</sub> | A virtual machine project |
+| M2 | [minitalk](https://github.com/carolcal/42_minitalk) | 💬 **125**/<sub>100</sub> | A small data exchange program |
+| M2 | [push_swap](https://github.com/carolcal/42_pushswap) | 📚 **125**/<sub>100</sub> | Sorting algorithms with two-stacks |
+| M2 | [FdF](https://github.com/carolcal/42_fdf) | ⛰️ **125**/<sub>100</sub> | My first graphic project at 42 |
+| M3 | [Philosophers](https://github.com/carolcal/42_philosophers) | 🤔 **100**/<sub>100</sub> | Using threads and mutax for the first time |
+| M3 | [Minishell](https://github.com/carolcal/42-minishell) | 🐚 **125**/<sub>100</sub> | My own beautiful little shell |
+| M4 | [Netpractice](https://github.com/carolcal/42_netpractice) | ✅ **100**/<sub>100</sub> | Our first contact with network |
+| M4 | [Cub3D](https://github.com/carolcal/42_cub3D) | 🧊 **125**/<sub>100</sub> | A 3D game with raycasting algorithm |
