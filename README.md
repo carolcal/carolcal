@@ -39,14 +39,14 @@
 ### École 42
 | Milestone | Project | Result | Description |
 |:---------:|:-------:|:-----:|:-----------:|
-| M0 | [Libft](https://github.com/carolcal/42_libft) | <img src="https://github.com/user-attachments/assets/63d993d4-fbd8-4dc7-8645-767d66be3e66" width="100"/> | My own C library |
-| M1 | [get_next_line](https://github.com/carolcal/42_gnl) | <img src="https://github.com/user-attachments/assets/63d993d4-fbd8-4dc7-8645-767d66be3e66" width="100"/> | Read and return a line from a file descriptor |
-| M1 | [ft_printf](https://github.com/carolcal/42_printf) | <img src="https://github.com/user-attachments/assets/7c078903-56c4-4ad8-881c-eeb719aa9fe6" width="100"/> | A custom version of the printf function |
-| M1 | [Born2beroot](https://github.com/carolcal/42_born2beroot) | <img src="https://github.com/user-attachments/assets/7c078903-56c4-4ad8-881c-eeb719aa9fe6" width="100"/> | A virtual machine project |
-| M2 | [minitalk](https://github.com/carolcal/42_minitalk) | <img src="https://github.com/user-attachments/assets/63d993d4-fbd8-4dc7-8645-767d66be3e66" width="100"/> | A small data exchange program |
-| M2 | [push_swap](https://github.com/carolcal/42_pushswap) | <img src="https://github.com/user-attachments/assets/63d993d4-fbd8-4dc7-8645-767d66be3e66" width="100"/> | Sorting algorithms with two-stacks |
-| M2 | [FdF](https://github.com/carolcal/42_fdf) | <img src="https://github.com/user-attachments/assets/63d993d4-fbd8-4dc7-8645-767d66be3e66" width="100"/> | My first graphic project at 42 |
-| M3 | [Philosophers](https://github.com/carolcal/42_philosophers) | <img src="https://github.com/user-attachments/assets/7c078903-56c4-4ad8-881c-eeb719aa9fe6" width="100"/> | Using threads and mutax for the first time |
-| M3 | [Minishell](https://github.com/carolcal/42-minishell) | <img src="https://github.com/user-attachments/assets/63d993d4-fbd8-4dc7-8645-767d66be3e66" width="100"/> | My own beautiful little shell |
-| M4 | [Netpractice](https://github.com/carolcal/42_netpractice) | <img src="https://github.com/user-attachments/assets/7c078903-56c4-4ad8-881c-eeb719aa9fe6" width="100"/> | Our first contact with network |
-| M4 | [Cub3D](https://github.com/carolcal/42_cub3D) | <img src="https://github.com/user-attachments/assets/63d993d4-fbd8-4dc7-8645-767d66be3e66" width="100"/> | A 3D game with raycasting algorithm |
+| M0 | [Libft](https://github.com/carolcal/42_libft) | ✅ 125/100 | My own C library |
+| M1 | [get_next_line](https://github.com/carolcal/42_gnl) | ✅ 125/100 | Read and return a line from a file descriptor |
+| M1 | [ft_printf](https://github.com/carolcal/42_printf) | ✅ 100/100 | A custom version of the printf function |
+| M1 | [Born2beroot](https://github.com/carolcal/42_born2beroot) | ✅ 100/100 | A virtual machine project |
+| M2 | [minitalk](https://github.com/carolcal/42_minitalk) | ✅ 125/100 | A small data exchange program |
+| M2 | [push_swap](https://github.com/carolcal/42_pushswap) | ✅ 125/100 | Sorting algorithms with two-stacks |
+| M2 | [FdF](https://github.com/carolcal/42_fdf) | ✅ 125/100 | My first graphic project at 42 |
+| M3 | [Philosophers](https://github.com/carolcal/42_philosophers) | ✅ 100/100 | Using threads and mutax for the first time |
+| M3 | [Minishell](https://github.com/carolcal/42-minishell) | ✅ 125/100 | My own beautiful little shell |
+| M4 | [Netpractice](https://github.com/carolcal/42_netpractice) | ✅ 100/100| Our first contact with network |
+| M4 | [Cub3D](https://github.com/carolcal/42_cub3D) | ✅ 125/100 | A 3D game with raycasting algorithm |
