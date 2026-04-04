@@ -52,8 +52,8 @@
 | M3 | [Minishell](https://github.com/carolcal/42-minishell) | 🐚 **125**/<sub>100</sub> | My own beautiful little shell |
 | M4 | [Netpractice](https://github.com/carolcal/42_netpractice) | 🧶 **100**/<sub>100</sub> | Our first contact with network |
 | M4 | [Cub3D](https://github.com/carolcal/42_cub3D) | 🧊 **125**/<sub>100</sub> | A 3D game with raycasting algorithm |
-| M4 / M5 | [C++](https://github.com/carolcal/42_cpp) | ➕ **100**/<sub>100</sub> | C++ Lists Exercises |
-|M5 | [Web Server](https://github.com/carolcal/42-webserv) | 🌐 **125**/<sub>100</sub> | My own web server |
+| M4 / M5 | [C++](https://github.com/carolcal/42_cpp) | ➕ **100**/<sub>100</sub> | C++98 Lists Exercises |
+|M5 | [Web Server](https://github.com/carolcal/42-webserv) | 🌐 **125**/<sub>100</sub> | A custom HTTP/1.1 server implemented in C++98 |
 
 ### Golang
 | Project | Description |
