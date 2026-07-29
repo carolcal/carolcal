@@ -2,8 +2,8 @@
 
 ## About Me
  <p align="left" width="300">
-     <p>💼 I am a self-taught Full Stack Developer working as such.</p>
-     <p>🌱 I am currently a 42 Cadet studying to become a Software Engineer.</p>
+     <p>💼 I started as a self-taught Full Stack Developer working as such.</p>
+     <p>🌱 I recently graduated at École 42 as a Software Engineer.</p>
      <p>📚 I have a Bachelor's degree in Architecture from the University of São Paulo.</p>
      <p>🌟 My main languages are C, C++, Javascript and Python.</p>
      <p>🌍 I have advanced proficiency in English and Spanish and am a native Portuguese speaker.</p>
